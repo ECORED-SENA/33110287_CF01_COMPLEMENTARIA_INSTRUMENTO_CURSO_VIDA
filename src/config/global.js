@@ -161,7 +161,7 @@ export default {
         'Ministerio de Salud Pública y Asistencia Social de Guatemala (s.f.).  <em>Modelo de atención integral en salud. </em>',
       tipo: 'Documento PDF',
       link:
-        'https://www.paho.org/gut/dmdocuments/Modelo_de_atencion_integral_en_salud_MSPAS.pdf',
+        'https://docs.bvsalud.org/biblioref/2019/06/998258/modelo-de-atencion-integral-en-salud.pdf',
     },
     {
       tema: 'Marco normativo y técnico',
@@ -204,7 +204,8 @@ export default {
         'https://www.minsalud.gov.co/sites/rid/Lists/BibliotecaDigital/RIDE/VS/PP/anexo-instrumentos-valoracion-ruta-promocion.pdf',
     },
     {
-      tema: '',
+      tema:
+        'Aplicación e interpretación de instrumentos de valoración integral por momento de curso de vida',
       referencia:
         'Organización Panamericana de Salud.  (s.f.).  <em>Curso de vida saludable. </em> ',
       tipo: 'Artículo página web',
@@ -214,8 +215,9 @@ export default {
       tema: 'Marco normativo y técnico',
       referencia:
         'Resolución 3280 de 2018.  [Ministerio de Salud y Protección Social].  Por medio de la cual se adoptan lineamientos técnicos y operativos de la Ruta Integral de Atención para la Promoción y Mantenimiento de la Salud y la Ruta Integral de Atención en Salud para la Población Materno Perinatal y se establecen las directrices para su operación.  2 de agosto de 2018',
-      tipo: '',
-      link: '',
+      tipo: 'Documento PDF',
+      link:
+        'https://www.minsalud.gov.co/Normatividad_Nuevo/Resoluci%C3%B3n%20No.%203280%20de%2020183280.pdf',
     },
   ],
   glosario: [
