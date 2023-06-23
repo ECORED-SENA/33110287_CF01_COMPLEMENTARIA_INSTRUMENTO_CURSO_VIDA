@@ -155,31 +155,31 @@
             ul.lista-ul--color.color-secundario.ps-md-4.fa-ul
               li.mb-2
                 i.fas.fa-chevron-right
-                | Carné de salud infantil
+                | Carné de salud infantil.
               li.mb-2
                 i.fas.fa-chevron-right
-                | Tablas y gráficas de los patrones de referencia para clasificación nutricional
+                | Tablas y gráficas de los patrones de referencia para clasificación nutricional.
               li.mb-2
                 i.fas.fa-chevron-right
-                | Tablas de percentiles de tensión arterial para niños y para niñas
+                | Tablas de percentiles de tensión arterial para niños y para niñas.
               li.mb-2
                 i.fas.fa-chevron-right
-                | Lista de chequeo de factores de riesgo de las enfermedades del oído, alteraciones auditivas, vestibulares y de la comunicación
+                | Lista de chequeo de factores de riesgo de las enfermedades del oído, alteraciones auditivas, vestibulares y de la comunicación.
               li.mb-2
                 i.fas.fa-chevron-right
-                | Escala Abreviada de Desarrollo-3
+                | Escala Abreviada de Desarrollo-3.
               li.mb-2
                 i.fas.fa-chevron-right
-                | Kit de materiales para la aplicación de la Escala Abreviada de Desarrollo 3 (EAD-3)
+                | Kit de materiales para la aplicación de la Escala Abreviada de Desarrollo 3 (EAD-3).
               li.mb-2
                 i.fas.fa-chevron-right
-                | Test m-Chat
+                | Test m-Chat.
               li.mb-2
                 i.fas.fa-chevron-right
-                | Cuestionario VALE
+                | Cuestionario VALE.
               li.mb-2
                 i.fas.fa-chevron-right
-                | Familiograma
+                | Familiograma.
               li
                 i.fas.fa-chevron-right
                 | APGAR familiar.
@@ -194,13 +194,13 @@
                   ul.lista-ul--color.color-secundario.ps-md-2.fa-ul
                     li.mb-2
                       i.fas.fa-chevron-right
-                      | Escala Abreviada de Desarrollo 3 (EAD-3)
+                      | Escala Abreviada de Desarrollo 3 (EAD-3).
                     li.mb-2
                       i.fas.fa-chevron-right
-                      | Tablas y gráficas de los patrones de referencia para clasificación nutricional
+                      | Tablas y gráficas de los patrones de referencia para clasificación nutricional.
                     li.mb-2
                       i.fas.fa-chevron-right
-                      | Cuestionario VALE
+                      | Cuestionario VALE.
                     li.mb-2
                       i.fas.fa-chevron-right
                       | Apgar familiar.
@@ -234,7 +234,7 @@
         TabsA.color-acento-botones.mb-5
           .tarjeta.bg-5.p-4(titulo="Nociones – Conceptos")
             h4 Nociones – Conceptos
-            p Las nociones relacionales (binarias, absolutas, egocéntricas) se relativizan por el contacto con los compañeros (que tienen otros puntos de vista) y pasan a ser: a la derecha de… y a la vez a la izquierda de
+            p Las nociones relacionales (binarias, absolutas, egocéntricas) se relativizan por el contacto con los compañeros (que tienen otros puntos de vista) y pasan a ser: a la derecha de… y a la vez a la izquierda de.
           .tarjeta.bg-5.p-4(titulo="Relaciones causa efecto")
             h4 Relaciones causa efecto
             p La causa-efecto (de las operaciones) se vuelve reversible: el acto de sumar cabe devolverlo, restando. Las clasificaciones y series ahora pueden trabajarse a través de prototipos abstractos.
@@ -356,7 +356,7 @@
                     .row
                       h5.t-blue Conceptos y categorías
                       p Los conceptos se organizan en categorías conceptuales, a través de las cuales comprende las leyes universales de los hechos o fenómenos de la realidad, de forma abstracta. 
-                      p Adquiere consciencia de la discrepancia entre lo real y lo posible: descubre en la realidad múltiples fallas patentes (de allí su carácter rebelde)
+                      p Adquiere consciencia de la discrepancia entre lo real y lo posible: descubre en la realidad múltiples fallas patentes (de allí su carácter rebelde).
                     .row
                       h5.t-blue Relaciones causa efecto
                       p Se empieza a considerar que los cambios son posibles. Se desarrolla la capacidad de concebir un mundo de posibilidades hipotéticas y comprender la existencia de intereses comunes a grupos de individuos.
@@ -470,17 +470,17 @@
         .row.justify-content-center.align-items-center
 
           .row.mb-5(data-aos="fade-down")
-            .col-md-4
+            .col-md-4.mb-3.mb-md-0
               .tarjeta.fondo-tarj1.p-4.h-100
                 img.mb-4(src='@/assets/curso/temas/t2/tarj2-ico1.svg' alt='' style="width: 80px;")
                 h5 Desaprender 
                 p Ayudarle a desaprender, a establecer nuevas estrategias de aprendizaje, a combinar la práctica con la teoría y lo abstracto con lo concreto-cotidiano, a aplicar lo que aprende a aquello en lo que trabaja, a sentirse comprendido y en un ambiente de confianza que le permita participar, valorando sus avances y estimulando a superar obstáculos.
-            .col-md-4
+            .col-md-4.mb-3.mb-md-0
               .tarjeta.fondo-tarj1.p-4.h-100
                 img.mb-4(src='@/assets/curso/temas/t2/tarj2-ico2.svg' alt='' style="width: 80px;")
                 h5 Significatividad de experiencias 
                 p Conectar las experiencias previas que hayan tenido con los nuevos conceptos y prácticas, motivándolos hacia una mayor satisfacción personal, construcción de auto seguridad y confianza, y teniéndolos en cuenta al momento de planificar la organización de su aprendizaje.
-            .col-md-4
+            .col-md-4.mb-3.mb-md-0
               .tarjeta.fondo-tarj1.p-4.h-100
                 img.mb-4(src='@/assets/curso/temas/t2/tarj2-ico3.svg' alt='' style="width: 80px;")
                 h5 Pedagogía diferenciada 
@@ -501,48 +501,27 @@
                 | Cuestionarios AUDIT, ASSIST, preguntas Whooley, cuestionario GAD-2, escala Zarit, Finnish Risk Score, tablas de Framighan.
               li.mb-2
                 i.fas.fa-chevron-right
-                | Tablas de estratificación de la OMS
+                | Tablas de estratificación de la OMS.
               li.mb-2
                 i.fas.fa-chevron-right
-                | Lista de chequeo de factores de riesgo de enfermedades del oído, alteraciones auditivas, vestibulares y de la comunicación
+                | Lista de chequeo de factores de riesgo de enfermedades del oído, alteraciones auditivas, vestibulares y de la comunicación.
               li.mb-2
                 i.fas.fa-chevron-right
-                | Cuestionario de EPOC
+                | Cuestionario de EPOC.
               li.mb-2
                 i.fas.fa-chevron-right
-                | Familiograma
+                | Familiograma.
               li.mb-2
                 i.fas.fa-chevron-right
-                | APGAR familiar
+                | APGAR familiar.
               li.mb-2
                 i.fas.fa-chevron-right
-                | Ecomapa
+                | Ecomapa.
               li.mb-2
                 i.fas.fa-chevron-right
                 | Materiales para examen físico (fonendoscopio, equipo de órganos, tensiómetro, cinta métrica, pulsioxímetro, báscula, tallímetro, cinta métrica, optotipos morfoscópicos o angulares para agudeza visual, etc.)
 
-          p.mb-4(data-aos="fade") Así mismo, se debe garantizar la presencia de materiales para examen físico pediátrico (fonendoscopio, equipo de órganos, tensiómetro pediátrico, cinta métrica, pulsioxímetro, optotipos morfoscópicos o angulares para agudeza visual, báscula y tallímetro etc.)
-
-          .col-md-10(data-aos="fade-down")
-            .bg-4.tarjeta.p-4.pt-md-0.pb-0
-              .row.align-items-center
-                .col-md-8
-                  p Instrumentos de aplicación obligatoria en cada consulta:
-                  ul.lista-ul--color.color-secundario.ps-md-2.fa-ul
-                    li.mb-2
-                      i.fas.fa-chevron-right
-                      | Tablas y gráficas de los patrones de referencia para clasificación nutricional
-                    li.mb-2
-                      i.fas.fa-chevron-right
-                      | Cuestionario VALE
-                    li.mb-2
-                      i.fas.fa-chevron-right
-                      | APGAR familiar
-                  p Se sugiere la aplicación de los demás instrumentos relacionados en el procedimiento, como complemento a la valoración integral de las niñas y niños.
-                .col-md-4
-                  img(src='@/assets/curso/temas/t2/img16.png' alt='')
-
-
+          
     Separador 
 
     #t_2_5
@@ -571,17 +550,17 @@
         .row.justify-content-center.align-items-center
 
           .row.mb-5(data-aos="fade-down")
-            .col-md-4
+            .col-md-4.mb-3.mb-md-0
               .tarjeta.fondo-tarj2.p-4.h-100
                 img.mb-4(src='@/assets/curso/temas/t2/tarj3-ico1.svg' alt='' style="width: 80px;")
                 h5 Funciones intelectuales 
-                p Algunas se afectan con la edad (organización de conceptos, paso de lo concreto a lo abstracto, velocidad del desempeño mental), otras se mantienen incluso aumentan (formas de raciocinio más pragmático e intuitivo, comprensión de la realidad, dada la experiencia acumulada)
-            .col-md-4
+                p Algunas se afectan con la edad (organización de conceptos, paso de lo concreto a lo abstracto, velocidad del desempeño mental), otras se mantienen incluso aumentan (formas de raciocinio más pragmático e intuitivo, comprensión de la realidad, dada la experiencia acumulada).
+            .col-md-4.mb-3.mb-md-0
               .tarjeta.fondo-tarj2.p-4.h-100
                 img.mb-4(src='@/assets/curso/temas/t2/tarj3-ico2.svg' alt='' style="width: 80px;")
                 h5 Capacidad de aprendizaje
                 p Capacidad e interés en aprender y ampliar sus posibilidades de desarrollo personal y social. El aprendizaje tiene una significación especial, como oportunidad de actualización, participación social y reafirmación de sus potencialidades.
-            .col-md-4
+            .col-md-4.mb-3.mb-md-0
               .tarjeta.fondo-tarj2.p-4.h-100
                 img.mb-4(src='@/assets/curso/temas/t2/tarj3-ico3.svg' alt='' style="width: 80px;")
                 h5 Experiencia y aplicación 
@@ -599,37 +578,37 @@
             ul.lista-ul--color.color-secundario.ps-md-4.fa-ul
               li.mb-2
                 i.fas.fa-chevron-right
-                | Escala de Lawton-Brody
+                | Escala de Lawton-Brody.
               li.mb-2
                 i.fas.fa-chevron-right
-                | Test de Linda Fried
+                | Test de Linda Fried.
               li.mb-2
                 i.fas.fa-chevron-right
-                | Escala de Barthel
+                | Escala de Barthel.
               li.mb-2
                 i.fas.fa-chevron-right
-                | Minimental
+                | Minimental.
               li.mb-2
                 i.fas.fa-chevron-right
-                | Cuestionarios AUDIT, ASSIST, preguntas Whooley, cuestionario GAD-2, escala Zarit, Finnish Risk Score
+                | Cuestionarios AUDIT, ASSIST, preguntas Whooley, cuestionario GAD-2, escala Zarit, Finnish Risk Score.
               li.mb-2
                 i.fas.fa-chevron-right
-                | Tablas de Framighan, tablas de estratificación de la OMS
+                | Tablas de Framighan, tablas de estratificación de la OMS.
               li.mb-2
                 i.fas.fa-chevron-right
-                | Kista de chequeo de factores de riesgo de enfermedades del oído, alteraciones auditivas, vestibulares y de la comunicación
+                | Kista de chequeo de factores de riesgo de enfermedades del oído, alteraciones auditivas, vestibulares y de la comunicación.
               li.mb-2
                 i.fas.fa-chevron-right
-                | Cuestionario de EPOC
+                | Cuestionario de EPOC.
               li.mb-2
                 i.fas.fa-chevron-right
-                | Familiograma
+                | Familiograma.
               li.mb-2
                 i.fas.fa-chevron-right
-                | APGAR familiar
+                | APGAR familiar.
               li.mb-2
                 i.fas.fa-chevron-right
-                | Ecomapa
+                | Ecomapa.
 
           p.mb-4(data-aos="fade") Así mismo se debe garantizar la presencia de materiales para examen físico (fonendoscopio equipo de órganos, tensiómetro, cinta métrica, pulsioxímetro, báscula, tallímetro, optotipos morfoscópicos o angulares para agudeza visual, etc.).
 

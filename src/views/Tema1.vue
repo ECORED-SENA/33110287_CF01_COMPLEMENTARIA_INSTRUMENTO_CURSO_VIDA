@@ -20,7 +20,7 @@
             p.mb-0 Los instrumentos de valoración integral en salud ayudan a realizar intervenciones poblacionales de carácter estructural, que requieren de la acción intersectorial para su desarrollo. De estas intervenciones es correcto afirmar que:
 
           .row.fondo-detras-azul.mb-4(data-aos="fade-down")
-            .col-md-3.mb-4
+            .col-md-6.col-xl-3.mb-4
               .tarjeta.tarjeta-slide.arriba.bg-white.box-shadow(@mouseover="indicadorTarjetaSlide = false")
                 .indicador--hover(v-if="indicadorTarjetaSlide")
                 .tarjeta-slide__contenedor
@@ -28,21 +28,21 @@
                     h5.t-blue Liderazgo de la nación 
                     p.mb-0 Se realizan bajo el liderazgo de la Nación y de las Entidades Territoriales y su alcance puede ser nacional, departamental o municipal (de acuerdo con sus competencias).
                   .tarjeta-slide__img(:style="{'background-image': `url(${require('@/assets/curso/temas/t1/tarjeta1.png')})`}")
-            .col-md-3.mb-4
+            .col-md-6.col-xl-3.mb-4
               .tarjeta.tarjeta-slide.arriba.bg-white.box-shadow
                 .tarjeta-slide__contenedor
                   .tarjeta-slide__contenido.p-4.p-xl-5.text-center
                     h5.t-blue Visión pública 
                     p.mb-0 Deben estar incluidas en los Planes de Desarrollo Territorial, Planes de Ordenamiento Territorial, los Planes Sectoriales y el Plan Territorial de Salud, utilizando las herramientas y metodologías disponibles.
                   .tarjeta-slide__img(:style="{'background-image': `url(${require('@/assets/curso/temas/t1/tarjeta2.png')})`}")
-            .col-md-3.mb-4
+            .col-md-6.col-xl-3.mb-4
               .tarjeta.tarjeta-slide.arriba.bg-white.box-shadow
                 .tarjeta-slide__contenedor
                   .tarjeta-slide__contenido.p-4.p-xl-5.text-center
                     h5.t-blue Impacto 
                     p.mb-0 Afectan las condiciones, modos y los estilos de vida de una sociedad y dan cuenta de la acción sobre los determinantes sociales y ambientales de la salud.
                   .tarjeta-slide__img(:style="{'background-image': `url(${require('@/assets/curso/temas/t1/tarjeta3.png')})`}")
-            .col-md-3.mb-4
+            .col-md-6.col-xl-3.mb-4
               .tarjeta.tarjeta-slide.arriba.bg-white.box-shadow
                 .tarjeta-slide__contenedor
                   .tarjeta-slide__contenido.p-4.text-center
@@ -73,7 +73,7 @@
           .col-10.mb-4(data-aos="fade")
             p.mb-0 La Ruta Integral de Atención para la Promoción y Mantenimiento de la Salud (RPMS) contempla tres tipos de intervenciones.
     
-    .bg-2.tarjeta.pt-4
+    .bg-2.tarjeta.pt-4.p-4.p-md-0
       .row.justify-content-evenly(data-aos="fade-down")
         .col-md-11
           p Vea, a continuación, sus principales características y algunas consideraciones para su abordaje familiar y comunitario:
@@ -83,7 +83,7 @@
               .row
                 h5.t-blue Intervenciones poblacionales 
                 p Dirigidas a toda la población. 
-                p Se deben considerar los efectos poblacionales en términos de incidencia intergeneracional o transformaciones sociales y familiares, en el marco de la superación de las inequidades y la afectación de los determinantes sociales de la salud con el fin de lograr su promoción y mantenimiento. Incluye como uno de sus pilares estratégicos, la salud familiar y comunitaria
+                p Se deben considerar los efectos poblacionales en términos de incidencia intergeneracional o transformaciones sociales y familiares, en el marco de la superación de las inequidades y la afectación de los determinantes sociales de la salud con el fin de lograr su promoción y mantenimiento. Incluye como uno de sus pilares estratégicos, la salud familiar y comunitaria.
               .row
                 h5.t-blue Intervenciones del Plan de Salud Pública de Intervenciones Colectivas – PIC 
                 p Dirigidas a las familias o comunidades que comparten situaciones particulares, se concretan a través del PIC de cada entidad territorial.
@@ -116,19 +116,19 @@
             h4.t-blue(data-aos="fade") Alcances u objetivos
           
           .row(data-aos="fade-down")
-            .col-md-3
+            .col-md-3.mb-3.mb-md-0
               .tarjeta.fondo-tarj1.p-4.h-100
                 img.mb-4(src='@/assets/curso/temas/t1/tarj-ico1.svg' alt='' style="width: 80px;")
                 p Valorar y hacer seguimiento de la salud y desarrollo integral (físico, cognitivo, social) de los niños y las niñas.
-            .col-md-3
+            .col-md-3.mb-3.mb-md-0
               .tarjeta.fondo-tarj1.p-4.h-100
                 img.mb-4(src='@/assets/curso/temas/t1/tarj-ico2.svg' alt='' style="width: 80px;") 
                 p Identificar tempranamente la exposición o presencia de factores de riesgo con el fin de prevenirlos o derivarlos para su manejo oportuno.
-            .col-md-3
+            .col-md-3.mb-3.mb-md-0
               .tarjeta.fondo-tarj1.p-4.h-100
                 img.mb-4(src='@/assets/curso/temas/t1/tarj-ico3.svg' alt='' style="width: 80px;")
                 p Detectar de forma temprana alteraciones que afecten negativamente la salud y el proceso de crecimiento y desarrollo, con el fin de referirlas para su manejo oportuno.
-            .col-md-3
+            .col-md-3.mb-3.mb-md-0
               .tarjeta.fondo-tarj1.p-4.h-100
                 img.mb-4(src='@/assets/curso/temas/t1/tarj-ico4.svg' alt='' style="width: 80px;") 
                 p Potenciar capacidades, habilidades y prácticas para promover el cuidado de la salud y fortalecer el desarrollo de los niños mediante la información en salud con padres y/o cuidadores y niños (as).
@@ -165,9 +165,9 @@
     .row.mb-4 
       .col-md-8.mb-4(data-aos="fade-right")
         LineaTiempoD.color-primario
-          p(numero="1" titulo="Leer el Manual Técnico") Debe hacerse lectura completa y atenta del Manual Técnico de la EAD-3
-          p(numero="2" titulo="Entrenamiento con expertos") Entrenarse en la aplicación de la EAD-3 con profesionales expertos (Secretarías de salud)
-          p(numero="3" titulo="Kit en óptimas condiciones") Contar con el kit de materiales completo, en buen estado y limpio
+          p(numero="1" titulo="Leer el Manual Técnico") Debe hacerse lectura completa y atenta del Manual Técnico de la EAD-3.
+          p(numero="2" titulo="Entrenamiento con expertos") Entrenarse en la aplicación de la EAD-3 con profesionales expertos (Secretarías de salud).
+          p(numero="3" titulo="Kit en óptimas condiciones") Contar con el kit de materiales completo, en buen estado y limpio.
           p(numero="4" titulo="Ambiente adecuado") Garantizar que se cumplan las condiciones materiales, de espacio, tiempo, estado de salud y emocional del niño y sus acompañantes, para la adecuada evaluación, sin afectación en la aplicación y los resultados.
           p(numero="5" titulo="Factores de riesgo") Establecer si el niño tiene algún factor de riesgo para el desarrollo infantil, haciendo énfasis en la prematuridad y sus complicaciones.
           p(numero="6" titulo="Edad") Establecer la edad precisa de la niña o el niño para poderlo ubicar en el rango de edad correspondiente.
@@ -725,7 +725,7 @@
                   img(src='@/assets/curso/temas/t1/1.svg' alt='')
                   .tarjeta.bg-white.box-shadow
                     .p-4.text-center
-                      p Considerar los ítems abordados en el instrumento: capacidad para utilizar el teléfono, hacer compras, preparación de la comida, cuidado de la casa, lavado de la ropa, uso de medios de transporte, responsabilidad respecto a la medicación y administración de su economía
+                      p Considerar los ítems abordados en el instrumento: capacidad para utilizar el teléfono, hacer compras, preparación de la comida, cuidado de la casa, lavado de la ropa, uso de medios de transporte, responsabilidad respecto a la medicación y administración de su economía.
                 .tarjeta-avatar
                   img(src='@/assets/curso/temas/t1/2.svg' alt='')
                   .tarjeta.bg-white.box-shadow
@@ -830,7 +830,7 @@
         span Si se tienen 3 o más ítems con SI, se categoriza como: 
           b.t-blue Frágil.
 
-    .row.fondo5-t1.align-items-center.py-4
+    .row.fondo5-t1.align-items-center.py-4.mb-4.mb-md-0
       .col-lg-12.col-12.px-lg-5.px-4
         .row.justify-content-center.align-items-center
 
@@ -848,7 +848,7 @@
                 img(src='@/assets/curso/temas/t1/deco8.png' alt='' style="width: 85px;")
               .col-10.mb-4(data-aos="fade")
                 p.mb-0 Esta evaluación se usa regularmente para valorar el estado cognoscitivo de una persona o detectar una posible demencia. Su aplicación requiere alrededor de siete minutos en personas con demencia y cinco minutos en personas con cognición conservada o normal.
-            .tarjeta.bg-1.p-4
+            .tarjeta.bg-1.p-4.mb-3.mb-md-0
               p.mb-0 Las puntuaciones suelen variar entre 1 y 30 puntos, siendo el punto de corte convencional 24, donde puntuaciones menores indican mayor deterioro cognitivo.    
           .col-md-4(data-aos="fade-left")
             img(src='@/assets/curso/temas/t1/img24.png' alt='')
@@ -946,10 +946,19 @@
                   .col-3
                     img(src='@/assets/curso/temas/t1/4.svg' alt='')
                 p.mb-1 Interpretar el puntaje: 
-                p.mb-0 Normal: 17-20 puntos 
-                p.mb-0 Disfunción leve: 16-13 puntos. 
-                p.mb-0 Disfunción moderada: 12-10 puntos 
-                p Disfunción severa: menor o igual a 9.    
+                ul.lista-ul--color.color-secundario.ps-md-1.fa-ul
+                  li.mb-1
+                    i.fas.fa-chevron-right
+                    |  Normal: 17-20 puntos 
+                  li.mb-1
+                    i.fas.fa-chevron-right
+                    |  Disfunción leve: 16-13 puntos. 
+                  li.mb-1
+                    i.fas.fa-chevron-right
+                    |  Disfunción moderada: 12-10 puntos 
+                  li.mb-0
+                    i.fas.fa-chevron-right
+                    |  Disfunción severa: menor o igual a 9.    
           .col-md-4
             img(src="@/assets/curso/temas/t1/img28.png")
 
@@ -1034,12 +1043,12 @@
           .row.mb-4(data-aos="fade-down")
             .col-md-4.d-flex.align-items-center
               p Algunos aspectos que, sobre los instrumentos sugeridos o complementarios, se deben tener en cuenta son:
-            .col-md-4
+            .col-md-4.mb-3.mb-md-0
               .tarjeta.fondo-tarj3.p-4.h-100
                 img.mb-4(src='@/assets/curso/temas/t1/tarj2-ico1.svg' alt='' style="width: 80px;")
                 h5 Capacidades del personal a cargo  
                 p Los profesionales encargados de la valoración integral deben contar con capacidades técnicas e individuales para la realización del examen físico, evaluación del desarrollo, evaluación antropométrica y nutricional, valoración de la salud auditiva, visual, bucal, mental, sexual, de la dinámica familiar y de las redes de apoyo.
-            .col-md-4
+            .col-md-4.mb-3.mb-md-0
               .tarjeta.fondo-tarj3.p-4.h-100
                 img.mb-4(src='@/assets/curso/temas/t1/tarj2-ico2.svg' alt='' style="width: 80px;")
                 h5 Procedimientos y órdenes de medicación 
@@ -1082,7 +1091,8 @@
       .col-md-8.mb-4(data-aos="fade-left")
         AcordionA.mb-4(tipo="b" clase-tarjeta="tarjeta bg-6")
           .row(titulo="Prueba ASSIST")
-            p Para consumo de alcohol, tabaco y otras drogas, dirigida población con sospecha de patrones de consumo problemático. Ante el consumo de SPA se debe aplicar el instrumento Substance Involvement Screening Test (ASSIST) y en el de alcohol el instrumento Alcohol Use Disorders Identification Test (AUDIT) En caso de presentar alteraciones en alguno de éstos se debe derivar a la Ruta Integral de Atención en Salud para la población con riesgo o presencia de trastornos asociados al uso de sustancias psicoactivas y adicciones.
+            p Para consumo de alcohol, tabaco y otras drogas, dirigida población con sospecha de patrones de consumo problemático. 
+            p Ante el consumo de SPA se debe aplicar el instrumento Substance Involvement Screening Test (ASSIST) y en el de alcohol el instrumento Alcohol Use Disorders Identification Test (AUDIT) En caso de presentar alteraciones en alguno de éstos se debe derivar a la Ruta Integral de Atención en Salud para la población con riesgo o presencia de trastornos asociados al uso de sustancias psicoactivas y adicciones.
           .row(titulo="Prueba Valoración de la salud auditiva y comunicativa")
             p Incluye la evaluación del estado del oído y su integridad a través de la inspección visual, la otoscopia, y de las funciones de la articulación, voz, habla y desempeño comunicativo.
             p Se recomienda aplicar la lista de chequeo de factores de riesgo de las enfermedades del oído, alteraciones auditivas, vestibulares y de la comunicación. Durante la consulta se debe aplicar el cuestionario VALE.
