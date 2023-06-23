@@ -2,7 +2,7 @@
 
 ## **Enlace GitHubPages**
 
-[https://ecored-sena.github.io/ECORED_TEMPLATE_REPO/](https://ecored-sena.github.io/ECORED_TEMPLATE_REPO/)
+[https://ecored-sena.github.io/33110287_CF01_COMPLEMENTARIA_INSTRUMENTO_CURSO_VIDA/](https://ecored-sena.github.io/33110287_CF01_COMPLEMENTARIA_INSTRUMENTO_CURSO_VIDA/)
 
 #
 
