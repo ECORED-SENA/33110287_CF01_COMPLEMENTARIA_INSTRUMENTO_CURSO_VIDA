@@ -234,7 +234,7 @@
         TabsA.color-acento-botones.mb-5
           .tarjeta.bg-5.p-4(titulo="Nociones – Conceptos")
             h4 Nociones – Conceptos
-            p Las nociones relacionales (binarias, absolutas, egocéntricas) se relativizan por el contacto con los compañeros (que tienen otros puntos de vista) y pasan a ser: a la derecha de… y a la vez a la izquierda de.
+            p Las nociones relacionales (binarias, absolutas, egocéntricas) se relativizan por el contacto con los compañeros (que tienen otros puntos de vista) y pasan a ser: a la derecha de... y a la vez a la izquierda de...
           .tarjeta.bg-5.p-4(titulo="Relaciones causa efecto")
             h4 Relaciones causa efecto
             p La causa-efecto (de las operaciones) se vuelve reversible: el acto de sumar cabe devolverlo, restando. Las clasificaciones y series ahora pueden trabajarse a través de prototipos abstractos.

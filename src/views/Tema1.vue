@@ -461,16 +461,16 @@
         ul.lista-ul--color.color-primario.ps-md-3.fa-ul
           li.mb-3
             i.fas.fa-chevron-right
-            | Con enfermedad cardiovascular establecida
+            | Con enfermedad cardiovascular establecida.
           li.mb-3
             i.fas.fa-chevron-right
-            | Sin enfermedad cardiovascular establecida, pero con un colesterol total ≥ 8 mmol/l (320 mg/dl), un colesterol LDL ≥ 6 mmol/l (240 mg/dl) o una relación CT/C-HDL > 8
+            | Sin enfermedad cardiovascular establecida, pero con un colesterol total ≥ 8 mmol/l (320 mg/dl), un colesterol LDL ≥ 6 mmol/l (240 mg/dl) o una relación CT/C-HDL > 8.
           li.mb-3
             i.fas.fa-chevron-right
-            | Sin enfermedad cardiovascular establecida, pero con cifras de tensión arterial permanentemente elevadas (> 160–170/100–105 mmHg)
+            | Sin enfermedad cardiovascular establecida, pero con cifras de tensión arterial permanentemente elevadas (> 160–170/100–105 mmHg).
           li.mb-3
             i.fas.fa-chevron-right
-            | Con diabetes tipo 1 o tipo 2, con nefropatía manifiesta u otra enfermedad renal importante
+            | Con diabetes tipo 1 o tipo 2, con nefropatía manifiesta u otra enfermedad renal importante.
           li
             i.fas.fa-chevron-right
             | Con insuficiencia renal o deterioro de la función renal.
@@ -732,7 +732,7 @@
                     .p-4.text-center
                       p  Asignar un valor numérico correspondiente a cada ítem: 
                       p.mb-0 1 = independiente 
-                      p 0 = dependiente.
+                      p 0 = dependiente
                 .tarjeta-avatar
                   img(src='@/assets/curso/temas/t1/3.svg' alt='')
                   .tarjeta.bg-white.box-shadow
@@ -939,8 +939,8 @@
                 p.mb-0 0: Nunca 
                 p.mb-0 1: Casi nunca 
                 p.mb-0 2: Algunas veces 
-                p.mb-0 3. Casi siempre 
-                p 4: Siempre.
+                p.mb-0 3: Casi siempre 
+                p 4: Siempre
               .tarjeta.bg-white.box-shadow.p-4
                 .row.justify-content-center.mb-3
                   .col-3
@@ -949,13 +949,13 @@
                 ul.lista-ul--color.color-secundario.ps-md-1.fa-ul
                   li.mb-1
                     i.fas.fa-chevron-right
-                    |  Normal: 17-20 puntos 
+                    |  Normal: 17-20 puntos.
                   li.mb-1
                     i.fas.fa-chevron-right
                     |  Disfunción leve: 16-13 puntos. 
                   li.mb-1
                     i.fas.fa-chevron-right
-                    |  Disfunción moderada: 12-10 puntos 
+                    |  Disfunción moderada: 12-10 puntos.
                   li.mb-0
                     i.fas.fa-chevron-right
                     |  Disfunción severa: menor o igual a 9.    
