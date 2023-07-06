@@ -133,7 +133,7 @@ export default {
       {
         icono: 'fas fa-file-pdf',
         titulo: 'Descargar PDF',
-        download: 'downloads/33110287_CF01_DU.pdf',
+        download: 'downloads/33110287_CF01_DU.zip',
       },
       {
         icono: 'fas fa-download',
@@ -366,7 +366,7 @@ export default {
         {
           nombre: 'Suralba Mosquera ',
           cargo: 'Experta Temática',
-          centro: 'Sena Antioquia',
+          centro: 'Regional Antioquia - Centro de Servicios de Salud',
         },
         {
           nombre: 'Maribel Avellaneda Nieves',
