@@ -233,7 +233,7 @@
                 span
                   b.t-blue Condiciones Estructurales: 
                   | presencia e integridad de estructuras anatómicas.  
-            p Una tercera parte, corresponde a la valoración de los siguientes ítems a través de una serie de preguntas para los padres, que se deben validar con las respuestas en el niño:
+            p Una tercera parte corresponde a la valoración de los siguientes ítems a través de una serie de preguntas para los padres, que se deben validar con las respuestas en el niño:
             ul.lista-ul--color.color-primario.ps-md-4.fa-ul
               li.mb-1
                 i.fas.fa-capsules
@@ -440,11 +440,12 @@
       .col-md-8.mb-4(data-aos="fade-left")
         .row 
           .col-md-5.pe-md-0
-            img(src='@/assets/curso/temas/t1/img14.png' alt='')
+            .bg-4.h-100.d-flex.align-items-center
+              img(src='@/assets/curso/temas/t1/img14.png' alt='')
           .col-md-7.ps-md-0
             .bg-2.h-100.p-4.border-r5
               img.mb-3(src='@/assets/curso/temas/t1/deco5.png' alt='' style="width: 80px;")
-              p.mb-0 Existen dos modelos de tablas. Uno de ellos (14 tablas) es válido para los contextos en los que se puede determinar el colesterol en sangre, mientras que el otro (14 tablas) se ha concebido para los contextos en que eso no es posible. Cada tabla debe usarse sólo en los países de la subregión epidemiológica de la OMS correspondiente.
+              p.mb-0 Existen dos modelos de tablas. Uno de ellos (14 tablas) es válido para los contextos en los que se puede determinar el colesterol en sangre, mientras que el otro (14 tablas) se ha concebido para los contextos en que eso no es posible. Cada tabla debe usarse solo en los países de la subregión epidemiológica de la OMS correspondiente.
 
     .row
       .col-md-4.mb-4(data-aos="fade-right")
@@ -569,7 +570,7 @@
               li.mb-3 
                 .lista-ol--cuadro__vineta
                   span.fw-bold 6
-                | Concentraciones elevadas de proteína C-reactiva, fibrinógeno, homocisteína, apolipoproteína B ó Lp(a), hiperglucemia en ayunas o intolerancia a la glucosa.
+                | Concentraciones elevadas de proteína C-reactiva, fibrinógeno, homocisteína, apolipoproteína B o Lp(a), hiperglucemia en ayunas o intolerancia a la glucosa.
               li.mb-3 
                 .lista-ol--cuadro__vineta
                   span.fw-bold 7
@@ -784,7 +785,7 @@
             p Este síndrome se mide a través de cinco criterios, cada uno de los cuales confiere un valor pronóstico y la sumatoria de ellos incrementa el riesgo de mortalidad hasta el 38% y de discapacidad física de 52% a 7.5 años.
             .bg-2.p-4.border-r5
               img.mb-3(src='@/assets/curso/temas/t1/deco5.png' alt='' style="width: 80px;")
-              p.mb-0 El test de fragilidad de Linda Fried, cuyo objetivo es detectar tempranamente a las personas adultas mayores con pre-fragilidad y fragilidad. requiere de la medición de los cinco componentes del fenotipo.
+              p.mb-0 El test de fragilidad de Linda Fried, cuyo objetivo es detectar tempranamente a las personas adultas mayores con pre-fragilidad y fragilidad. Requiere de la medición de los cinco componentes del fenotipo.
 
     .row.mb-4
       .col-md-4.mb-4(data-aos="fade-right")
@@ -793,7 +794,7 @@
         p Detalle en qué consisten y algunas recomendaciones para su aplicación:
         AcordionA(tipo="b" clase-tarjeta="tarjeta bg-6")
           .row(titulo="Pérdida de peso")
-            p Se Indaga por la pérdida no intencional de peso en los últimos tres meses (o más de 5 kg en el último año) o un índice de masa corporal menor a 21 kg/m2. 
+            p Se Indaga por la pérdida no intencional de peso en los últimos tres meses (o más de 5 kg en el último año) o un índice de masa corporal menor a 21 kg/m<sup>2</sup>. 
             p Es importante hacer énfasis, es que no debe ser intencional (sin dieta o debido a ejercicio).
           .row(titulo="Baja actividad física")
             p Se pregunta la escala de Reuben, que básicamente se responde con SÍ o No a los siguientes cuestionamientos: 
@@ -891,7 +892,7 @@
           .col-auto.mb-4(data-aos="fade")
             img(src='@/assets/curso/temas/t1/deco9.png' alt='' style="width: 85px;")
           .col-10.mb-4(data-aos="fade")
-            p.mb-0 El APGAR familiar es un instrumento que muestra cómo perciben los miembros de la familia el nivel de funcionamiento de la unidad familiar de forma global, incluyendo a los niños ya que es aplicable a la población infantil. El APGAR familiar es útil para evidenciar la forma en que una persona percibe el funcionamiento de su familia en un momento determinado.
+            p.mb-0 El APGAR familiar es un instrumento que muestra cómo perciben los miembros de la familia el nivel de funcionamiento de la unidad familiar de forma global, incluyendo a los niños, ya que es aplicable a la población infantil. El APGAR familiar es útil para evidenciar la forma en que una persona percibe el funcionamiento de su familia en un momento determinado.
         .bg-2.p-4
           p.mb-0 El registro de esta percepción es particularmente importante en contextos como la práctica ambulatoria, donde no es común que los pacientes o usuarios manifiesten directamente sus problemas familiares, y por el contrario es difícil encontrar profesionales de salud especializados en abordar tales temas cuando se detectan en la conversación durante la consulta. Este instrumento también sirve para favorecer una relación médico paciente en toda su extensión.
       .col-md-4.mb-4(data-aos="fade-left")
@@ -1092,7 +1093,7 @@
         AcordionA.mb-4(tipo="b" clase-tarjeta="tarjeta bg-6")
           .row(titulo="Prueba ASSIST")
             p Para consumo de alcohol, tabaco y otras drogas, dirigida población con sospecha de patrones de consumo problemático. 
-            p Ante el consumo de SPA se debe aplicar el instrumento Substance Involvement Screening Test (ASSIST) y en el de alcohol el instrumento Alcohol Use Disorders Identification Test (AUDIT) En caso de presentar alteraciones en alguno de éstos se debe derivar a la Ruta Integral de Atención en Salud para la población con riesgo o presencia de trastornos asociados al uso de sustancias psicoactivas y adicciones.
+            p Ante el consumo de SPA se debe aplicar el instrumento Substance Involvement Screening Test (ASSIST) y en el de alcohol el instrumento Alcohol Use Disorders Identification Test (AUDIT) En caso de presentar alteraciones en alguno de estos se debe derivar a la Ruta Integral de Atención en Salud para la población con riesgo o presencia de trastornos asociados al uso de sustancias psicoactivas y adicciones.
           .row(titulo="Prueba Valoración de la salud auditiva y comunicativa")
             p Incluye la evaluación del estado del oído y su integridad a través de la inspección visual, la otoscopia, y de las funciones de la articulación, voz, habla y desempeño comunicativo.
             p Se recomienda aplicar la lista de chequeo de factores de riesgo de las enfermedades del oído, alteraciones auditivas, vestibulares y de la comunicación. Durante la consulta se debe aplicar el cuestionario VALE.

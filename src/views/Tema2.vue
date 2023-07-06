@@ -12,7 +12,7 @@
         .row.justify-content-center.align-items-center
 
           .col-md-8.mb-4(data-aos="fade-right")
-            p En la Ruta de Atención Integral en Salud, los momentos significativos están ligados a las oportunidades de desarrollo de las personas y se definen como los "eventos que provocan fuertes modificaciones traducidas en cambios drásticos del curso de vida.
+            p En la Ruta de Atención Integral en Salud, los momentos significativos están ligados a las oportunidades de desarrollo de las personas y se definen como los "eventos que provocan fuertes modificaciones traducidas en cambios drásticos del curso de vida".
             .row.mb-4 
               .col-md-6.pe-md-0
                 img(src='@/assets/curso/temas/t2/img2.png' alt='')
@@ -27,7 +27,7 @@
           .col-md-1.mb-4(data-aos="fade")
             img(src='@/assets/curso/temas/t2/deco2.png' alt='' style="width: 85px;")
           .col-md-11.mb-4(data-aos="fade")
-            p.mb-0 Por lo anterior, resulta relevante el proceso de educación para la salud cuyo diseño debe partir de conocer cómo aprendemos los seres humanos (Ver Figura) y cómo aprenden las personas en cada momento del curso de vida.
+            p.mb-0 Por lo anterior, resulta relevante el proceso de educación para la salud cuyo diseño debe partir de conocer cómo aprendemos los seres humanos (Ver Figura 1) y cómo aprenden las personas en cada momento del curso de vida.
 
           p.mb-4(data-aos="fade") El siguiente esquema detalla las características y mecanismos de aprendizaje en los seres humanos:
 
@@ -226,7 +226,7 @@
     .subt.mb-4(data-aos="fade")  
       h4.mb-0 Temas clave      
 
-    p(data-aos="fade") Derechos de los niños, desarrollo integral en la infancia, crianza humana, acompañamiento en el proceso de aprendizaje y detección temprana de problemas asociados. patrones de crecimiento vigentes para el país, guías alimentarias para la población mayor de 2 años.
+    p(data-aos="fade") Derechos de los niños, desarrollo integral en la infancia, crianza humana, acompañamiento en el proceso de aprendizaje y detección temprana de problemas asociados. Patrones de crecimiento vigentes para el país, guías alimentarias para la población mayor de 2 años.
     p.mb-4(data-aos="fade") Las siguientes son las capacidades y desarrollos representativos de la infancia:
 
     .row
@@ -240,7 +240,7 @@
             p La causa-efecto (de las operaciones) se vuelve reversible: el acto de sumar cabe devolverlo, restando. Las clasificaciones y series ahora pueden trabajarse a través de prototipos abstractos.
           .tarjeta.bg-5.p-4(titulo="Valores")
             h4 Valores
-            p Los valores se desplazan del plano intrafamiliar al interpersonal (con los congéneres donde el juego y la cooperación implican la descentración valorativa. 
+            p Los valores se desplazan del plano intrafamiliar al interpersonal (con los congéneres donde el juego y la cooperación implican la descentración valorativa). 
             p Las valoraciones (bueno-malo, justo-injusto…) ligadas a la propia visión y a la de los padres, cede paso a otras perspectivas que relativizan los puntos de vista y los criterios absolutos.
           .tarjeta.bg-5.p-4(titulo="Psicomotricidad")
             h4 Psicomotricidad
@@ -539,7 +539,7 @@
 
     .row
       .col-md-7.mb-4.mb-md-0(data-aos="fade-right")
-        p Diseño, planeación y ejecución de programas y estrategias de estimulación cognitiva y emocional para adultos mayores. derechos humanos y libertades fundamentales de las personas adultas mayores, enfoque de curso de vida considerando los efectos acumulativos de las acciones en salud realizadas en momentos vitales anteriores y su impacto en la vejez, envejecimiento activo (optimización de las oportunidades en salud, entornos físicos, familiares, sociales, económicos y políticos en pro de la independencia, participación y seguridad de las personas adultas mayores), mantenimiento de la funcionalidad y la calidad de vida de las personas adultas mayores.
+        p Diseño, planeación y ejecución de programas y estrategias de estimulación cognitiva y emocional para adultos mayores. Derechos humanos y libertades fundamentales de las personas adultas mayores, enfoque de curso de vida considerando los efectos acumulativos de las acciones en salud realizadas en momentos vitales anteriores y su impacto en la vejez, envejecimiento activo (optimización de las oportunidades en salud, entornos físicos, familiares, sociales, económicos y políticos en pro de la independencia, participación y seguridad de las personas adultas mayores), mantenimiento de la funcionalidad y la calidad de vida de las personas adultas mayores.
         p Los siguientes son, en términos de capacidades, algunas condiciones destacadas presentes en la etapa de la vejez:
       .col-md-5(data-aos="fade-left")
         img(src='@/assets/curso/temas/t2/img17.png' alt='')
